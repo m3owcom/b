@@ -1,0 +1,247 @@
+{
+  "assets/about/icons/eu-flag.svg": {
+    "file": "assets/images/eu-flag-3a6ab4f2.svg",
+    "src": "assets/about/icons/eu-flag.svg"
+  },
+  "assets/about/icons/shield.svg": {
+    "file": "assets/images/shield-17b7fc1b.svg",
+    "src": "assets/about/icons/shield.svg"
+  },
+  "assets/about/icons/users.svg": {
+    "file": "assets/images/users-0ea4194b.svg",
+    "src": "assets/about/icons/users.svg"
+  },
+  "assets/about/map.svg": {
+    "file": "assets/images/map-10e9e738.svg",
+    "src": "assets/about/map.svg"
+  },
+  "assets/about/mark.svg": {
+    "file": "assets/images/mark-ee1654b1.svg",
+    "src": "assets/about/mark.svg"
+  },
+  "assets/fonts/Graphik-Semibold.woff": {
+    "file": "assets/woff/Graphik-Semibold-244ad291.woff",
+    "src": "assets/fonts/Graphik-Semibold.woff"
+  },
+  "assets/fonts/Graphik-Semibold.woff2": {
+    "file": "assets/woff2/Graphik-Semibold-7ae5646d.woff2",
+    "src": "assets/fonts/Graphik-Semibold.woff2"
+  },
+  "assets/fonts/GraphikLCWeb-Black.woff": {
+    "file": "assets/woff/GraphikLCWeb-Black-fc934608.woff",
+    "src": "assets/fonts/GraphikLCWeb-Black.woff"
+  },
+  "assets/fonts/GraphikLCWeb-Black.woff2": {
+    "file": "assets/woff2/GraphikLCWeb-Black-17da91b3.woff2",
+    "src": "assets/fonts/GraphikLCWeb-Black.woff2"
+  },
+  "assets/fonts/GraphikLCWeb-Bold.woff": {
+    "file": "assets/woff/GraphikLCWeb-Bold-dc4f9ad7.woff",
+    "src": "assets/fonts/GraphikLCWeb-Bold.woff"
+  },
+  "assets/fonts/GraphikLCWeb-Bold.woff2": {
+    "file": "assets/woff2/GraphikLCWeb-Bold-b8f62045.woff2",
+    "src": "assets/fonts/GraphikLCWeb-Bold.woff2"
+  },
+  "assets/fonts/GraphikLCWeb-Medium.woff": {
+    "file": "assets/woff/GraphikLCWeb-Medium-e63b78c4.woff",
+    "src": "assets/fonts/GraphikLCWeb-Medium.woff"
+  },
+  "assets/fonts/GraphikLCWeb-Medium.woff2": {
+    "file": "assets/woff2/GraphikLCWeb-Medium-657853ba.woff2",
+    "src": "assets/fonts/GraphikLCWeb-Medium.woff2"
+  },
+  "assets/fonts/GraphikLCWeb-Regular.woff": {
+    "file": "assets/woff/GraphikLCWeb-Regular-5fecc63a.woff",
+    "src": "assets/fonts/GraphikLCWeb-Regular.woff"
+  },
+  "assets/fonts/GraphikLCWeb-Regular.woff2": {
+    "file": "assets/woff2/GraphikLCWeb-Regular-df9bed1d.woff2",
+    "src": "assets/fonts/GraphikLCWeb-Regular.woff2"
+  },
+  "assets/footer/android.svg": {
+    "file": "assets/images/android-08f3c8c9.svg",
+    "src": "assets/footer/android.svg"
+  },
+  "assets/footer/facebook.svg": {
+    "file": "assets/images/facebook-f2c8603e.svg",
+    "src": "assets/footer/facebook.svg"
+  },
+  "assets/footer/flag.svg": {
+    "file": "assets/images/flag-26c9b1f7.svg",
+    "src": "assets/footer/flag.svg"
+  },
+  "assets/footer/instagram.svg": {
+    "file": "assets/images/instagram-009737d5.svg",
+    "src": "assets/footer/instagram.svg"
+  },
+  "assets/footer/mail.svg": {
+    "file": "assets/images/mail-e3827bb7.svg",
+    "src": "assets/footer/mail.svg"
+  },
+  "assets/footer/twitter.svg": {
+    "file": "assets/images/twitter-f140ce3b.svg",
+    "src": "assets/footer/twitter.svg"
+  },
+  "assets/footer/youtube.svg": {
+    "file": "assets/images/youtube-0cd06380.svg",
+    "src": "assets/footer/youtube.svg"
+  },
+  "assets/header/1.svg": {
+    "file": "assets/images/1-9e088720.svg",
+    "src": "assets/header/1.svg"
+  },
+  "assets/header/2.svg": {
+    "file": "assets/images/2-d54db38a.svg",
+    "src": "assets/header/2.svg"
+  },
+  "assets/header/3.svg": {
+    "file": "assets/images/3-df1fd31d.svg",
+    "src": "assets/header/3.svg"
+  },
+  "assets/header/arm.svg": {
+    "file": "assets/images/arm-0ffc420c.svg",
+    "src": "assets/header/arm.svg"
+  },
+  "assets/header/arms.svg": {
+    "file": "assets/images/arms-a99c82e3.svg",
+    "src": "assets/header/arms.svg"
+  },
+  "assets/header/bg.png": {
+    "file": "assets/images/bg-cb318aa1.png",
+    "src": "assets/header/bg.png"
+  },
+  "assets/header/burger.svg": {
+    "file": "assets/images/burger-4658149f.svg",
+    "src": "assets/header/burger.svg"
+  },
+  "assets/header/cardholder.svg": {
+    "file": "assets/images/cardholder-4d5e6bdf.svg",
+    "src": "assets/header/cardholder.svg"
+  },
+  "assets/header/coins.svg": {
+    "file": "assets/images/coins-2465b12d.svg",
+    "src": "assets/header/coins.svg"
+  },
+  "assets/header/credit-card.svg": {
+    "file": "assets/images/credit-card-26e9d780.svg",
+    "src": "assets/header/credit-card.svg"
+  },
+  "assets/header/currency-btc.svg": {
+    "file": "assets/images/currency-btc-fd403e88.svg",
+    "src": "assets/header/currency-btc.svg"
+  },
+  "assets/header/eu-flag.svg": {
+    "file": "assets/images/eu-flag-3a6ab4f2.svg",
+    "src": "assets/about/icons/eu-flag.svg"
+  },
+  "assets/header/google-social.svg": {
+    "file": "assets/images/google-social-553424fe.svg",
+    "src": "assets/header/google-social.svg"
+  },
+  "assets/header/logo.svg": {
+    "file": "assets/images/logo-edddb64c.svg",
+    "src": "assets/header/logo.svg"
+  },
+  "assets/header/man.svg": {
+    "file": "assets/images/man-8b100577.svg",
+    "src": "assets/header/man.svg"
+  },
+  "assets/header/phone.png": {
+    "file": "assets/images/phone-e535d486.png",
+    "src": "assets/header/phone.png"
+  },
+  "assets/header/schedule.svg": {
+    "file": "assets/images/schedule-7165ca73.svg",
+    "src": "assets/header/schedule.svg"
+  },
+  "assets/header/screenshots.png": {
+    "file": "assets/images/screenshots-da59883e.png",
+    "src": "assets/header/screenshots.png"
+  },
+  "assets/header/shield.svg": {
+    "file": "assets/images/shield-faec3c0a.svg",
+    "src": "assets/header/shield.svg"
+  },
+  "assets/header/target.svg": {
+    "file": "assets/images/target-ca873d2a.svg",
+    "src": "assets/header/target.svg"
+  },
+  "assets/header/twitter-social.svg": {
+    "file": "assets/images/twitter-social-519632f9.svg",
+    "src": "assets/header/twitter-social.svg"
+  },
+  "assets/header/users-three.svg": {
+    "file": "assets/images/users-three-4b6fd002.svg",
+    "src": "assets/header/users-three.svg"
+  },
+  "assets/header/vault.svg": {
+    "file": "assets/images/vault-91d81aae.svg",
+    "src": "assets/header/vault.svg"
+  },
+  "assets/header/wallet.svg": {
+    "file": "assets/images/wallet-9f480a42.svg",
+    "src": "assets/header/wallet.svg"
+  },
+  "assets/header/yahoo-social.svg": {
+    "file": "assets/images/yahoo-social-368b1f93.svg",
+    "src": "assets/header/yahoo-social.svg"
+  },
+  "assets/verification/close.svg": {
+    "file": "assets/images/close-04e09f26.svg",
+    "src": "assets/verification/close.svg"
+  },
+  "assets/verification/delete.svg": {
+    "file": "assets/images/delete-886b8328.svg",
+    "src": "assets/verification/delete.svg"
+  },
+  "assets/verification/done.svg": {
+    "file": "assets/images/done-a578ec85.svg",
+    "src": "assets/verification/done.svg"
+  },
+  "assets/verification/pending.svg": {
+    "file": "assets/images/pending-8e0809c5.svg",
+    "src": "assets/verification/pending.svg"
+  },
+  "scripts/burger.js": {
+    "file": "assets/burger-03d5aee9.js",
+    "isEntry": true,
+    "src": "scripts/burger.js"
+  },
+  "scripts/main.js": {
+    "css": [
+      "assets/css/main-505f6c26.css"
+    ],
+    "file": "assets/main-58fbaeeb.js",
+    "imports": [
+      "scripts/burger.js"
+    ],
+    "isEntry": true,
+    "src": "scripts/main.js"
+  },
+  "styles/fonts.sass": {
+    "file": "assets/css/fonts-3c0c575f.css",
+    "isEntry": true,
+    "src": "styles/fonts.sass"
+  },
+  "styles/main.sass": {
+    "file": "assets/css/main-505f6c26.css",
+    "isEntry": true,
+    "src": "styles/main.sass"
+  },
+  "styles/mixins.sass": {
+    "file": "assets/mixins-4ed993c7.js",
+    "isEntry": true,
+    "src": "styles/mixins.sass"
+  },
+  "styles/reset.sass": {
+    "file": "assets/css/reset-1bf0ef00.css",
+    "isEntry": true,
+    "src": "styles/reset.sass"
+  },
+  "styles/variables.sass": {
+    "file": "assets/variables-4ed993c7.js",
+    "isEntry": true,
+    "src": "styles/variables.sass"
+  }
+}

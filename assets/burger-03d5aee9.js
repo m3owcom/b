@@ -1,0 +1,1 @@
+const n=document.querySelector(".header__burger"),o=document.querySelector(".supermain-auth__close"),e=document.querySelector(".supermain-auth"),r=()=>{e?.classList.toggle(`${e.classList[0]}--active`)},t=c=>{c?.addEventListener("click",()=>{r()})};t(n);t(o);

